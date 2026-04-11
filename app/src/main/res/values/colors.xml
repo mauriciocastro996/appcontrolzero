@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores app ControlZero -->
+    <color name="color_amarillo">#F9B21C</color>
+    <color name="color_amarillo_claro">#FEE133</color>
+    <color name="color_verde">#4CAF50</color>
+    <color name="color_rojo">#F44336</color>
+    <color name="color_gris">#666666</color>
+    <color name="color_gris_claro">#CCCCCC</color>
+    <color name="color_oscuro">#333630</color>
+</resources>
